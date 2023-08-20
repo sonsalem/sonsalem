@@ -1,3 +1,4 @@
+[![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Son Salem</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **commerce**
 
-- 👨‍💻 All of my projects are available at [Github This Time](Github This Time)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sonsalem)
 
 - 💬 Ask me about **Html-CSS-Bootstrap-Git&Github**
 
@@ -33,8 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonsalem&show_icons=true&locale=en&layout=compact" alt="sonsalem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonsalem&show_icons=true&locale=en" alt="sonsalem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonsalem&" alt="sonsalem" /></p>
 
 
 <br clear="both">
