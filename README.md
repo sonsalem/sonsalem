@@ -35,6 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonsalem&show_icons=true&locale=en" alt="sonsalem" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonsalem&" alt="sonsalem" /></p>
 
 <br clear="both">
 
