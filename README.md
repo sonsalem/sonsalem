@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/sonsalem7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sonsalem7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/son salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="son salem" height="30" width="40" /></a>
-<a href="https://fb.com/salem.mamdouh.1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem.mamdouh.1257" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61553863762148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem.mamdouh.1257" height="30" width="40" /></a>
 <a href="https://instagram.com/salemmamdouh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salemmamdouh77" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sonsalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonsalem" height="30" width="40" /></a>
 </p>
