@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonsalem&label=Profile%20views&color=0e75b6&style=flat" alt="sonsalem" /> </p>
 
-- 🔭 I’m currently working on [Vikinger](https://raw.githack.com/sonsalem/Gigaland/main/index.html)
+- 🔭 I’m currently working on [Gigaland](https://raw.githack.com/sonsalem/Gigaland/main/index.html)
 
 - 🌱 I’m currently learning **JavaScript**
 
