@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonsalem&label=Profile%20views&color=0e75b6&style=flat" alt="sonsalem" /> </p>
 
-- 🔭 I’m currently working on [Gigaland](https://raw.githack.com/sonsalem/Gigaland/main/index.html)
-
-- 🌱 I’m currently learning **JavaScript**
-
 - 👯 I’m looking to collaborate on **commerce**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sonsalem)
