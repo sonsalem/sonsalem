@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonsalem&label=Profile%20views&color=0e75b6&style=flat" alt="sonsalem" /> </p>
 
-- 👯 I’m looking to collaborate on **commerce**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sonsalem)
 
 - 💬 Ask me about **Html-CSS-Bootstrap-Git&Github**
