@@ -1,17 +1,20 @@
+
 [![MasterHead](https://img.freepik.com/free-vector/team-mobile-web-app-development_107791-12795.jpg?w=1380&t=st=1705242942~exp=1705243542~hmac=95a851c24c105c741a52da9ff0ebbaad642570f0700ed4e816d89c7a6f01a4d1)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Son Salem</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Front-End Developer from Egypt</h3>
+
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1705242713~exp=1705243313~hmac=b14eb1fb2165bde484011fa01c0f22d62730541d834ccaa20e1600b3e0399f33">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonsalem&label=Profile%20views&color=0e75b6&style=flat" alt="sonsalem" /> </p>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sonsalem)
-
-- 💬 Ask me about **Html-CSS-Bootstrap-Git&Github**
-
-- 📫 How to reach me **salemmamdouh77777@gmail.com**
-
-- ⚡ Fun fact **I'm lazy man**
+- 👨‍💻 My Website [Salem](https://github.com/sonsalem](https://salem-mamdouh-website.vercel.app/en))
+- 📄 Know about my experiences [Salem](https://drive.google.com/file/d/18CFrQyGQvMd-MQ2SqtqnoVHc9gg18f2f/view?pli=1)
+- 💬 Ask me about **React, Next.js, Tailwind, TypeScript, Formik, RHF, Zod, Clerk**
+- 📚 I'm currently studying Front-End Development at CIS, New Cairo
+- 🎓 Expected to graduate in **2027**
+- 📫 Reach me at **salemmamdouh77777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +26,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonsalem&show_icons=true&locale=en&layout=compact" alt="sonsalem" /></p>
 
@@ -34,5 +51,3 @@
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
